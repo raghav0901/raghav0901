@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I am a Data scientist, currently in the final year of my Bsc. Computer Science. I love working with data and finding out deep insights
+### from it.
+
 <!--
 **raghav0901/raghav0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
