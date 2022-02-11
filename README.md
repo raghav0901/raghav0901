@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 ### I am a Data scientist, currently in the final year of my Bsc. Computer Science. I love working with complex data and finding out deep insights from it.
+### My tech skills:
+
+### - Python
+### - Machine Learning
+### - SQL
+### - Data Wrangling
 
 <!--
 **raghav0901/raghav0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
